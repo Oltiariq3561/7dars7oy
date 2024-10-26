@@ -1,4 +1,3 @@
-// languageReducer.js
 
 const initialState = {
     language: 'en', 

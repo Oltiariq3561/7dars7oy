@@ -1,5 +1,3 @@
-// themeReducer.js
-
 const initialState = {
     theme: 'light',
   };

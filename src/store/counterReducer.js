@@ -1,5 +1,3 @@
-// counterReducer.js
-
 const initialState = {
     users: [],
   };
